@@ -45,3 +45,7 @@ import '~antd/dist/antd.css';
 import { DatePicker } from 'antd';
 ReactDOM.render(<DatePicker />, mountNode);
 ```
+
+## 示例
+
+查看：https://github.com/roscoe054/ykit-starter-antd
