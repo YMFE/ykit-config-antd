@@ -35,8 +35,8 @@ module.exports = {
 
 在工程中的 style.css(style.scss/style.less) 中添加：
 
-```
-import '~antd/dist/antd.css';
+```css
+@import '~antd/dist/antd.css';
 ```
 
 使用组件：
