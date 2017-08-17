@@ -1,6 +1,6 @@
 {
   "name": "ykit-config-antd",
-  "version": "0.1.3",
+  "version": "1.0.0",
   "description": "ykit ant-design 配置插件",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,6 @@
   "dependencies": {
     "antd": "^2.9.3",
     "babel-plugin-import": "^1.1.1",
-    "ykit-config-react": "^0.4.2"
+    "ykit-config-react": "^1.0.0"
   }
 }
