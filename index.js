@@ -21,5 +21,10 @@ exports.config = function (options, cwd) {
         }
     }
 
+    this.commands.push({
+        name: 'setup',
+        module: require('./commands/setup.js')
+    });
+
     reactConfig.config.call(this, options, cwd);
 };
