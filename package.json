@@ -1,6 +1,6 @@
 {
   "name": "ykit-config-antd",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "ykit ant-design 配置插件",
   "main": "index.js",
   "scripts": {
