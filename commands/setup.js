@@ -39,7 +39,7 @@ exports.run = function(options) {
     }
 
     function installDependencies() {
-        var dependencies = ['react@16.2.0', 'react-dom@16.2.0'];
+        var dependencies = ['react@16.2.0', 'react-dom@16.2.0', 'antd'];
         var installCommand = 'npm i --save --registry=https://registry.npm.taobao.org ';
 
         for (var i = 0, len = dependencies.length; i < len; i++) {
